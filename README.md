@@ -18,4 +18,4 @@ This project presents a smart energy meter system using Arduino UNO and ESP32.
 
 ## Author
 Eshita Dhar
-M.Sc. IT (Cyber Security)
+
